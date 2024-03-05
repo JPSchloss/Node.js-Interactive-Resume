@@ -4,6 +4,8 @@ Jonathan Schlosser's Version of STRML.net
 This code is based on Samuel Reed's work with [STRML.net](http://strml.net) but has been updated to show off Jonathan Schlosser's interactive resume. This was done as a fun project to start getting familiar with Node.js applications and interactive coding visualizations. Please enjoy! 
 
 
+https://github.com/JPSchloss/Node.js-Interactive-Resume/assets/50070349/84f4983a-f47a-4e39-ab38-e06604cd361e
+
 
 Using STRML.net For Yourself
 --------
