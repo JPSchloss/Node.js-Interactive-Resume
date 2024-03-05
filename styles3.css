@@ -1,0 +1,38 @@
+
+/**
+ * We're almost done.
+ */
+
+ pre:hover{
+   box-shadow: 0px 0px 40px 5px rgba(0,0,0,0.4);
+ }
+
+ #skip-animation, #pause-resume {
+   display: none;
+ }
+
+/**
+ * Creating this site was a lot of fun! 
+ *
+ * Special thanks goes to Samuel Reed who developed most of the code for this site. 
+ * You can find the code on his GitHub here: https://github.com/STRML/strml.net/tree/master
+ *
+ * Also, thanks to Jake Albaugh, who's work on CodePen inspired the design of this site. 
+ * You can see more of Jake's work here: http://codepen.io/jakealbaugh/
+ *
+ * And thanks to Chris Brousseau who's site first introduced me to this concept and 
+ * inspired me to make one of my own!
+ */
+
+/**
+ * By the way, you can edit this box. Try adding new CSS!
+ *
+ * There's lots you can try out here. 
+ *
+ * Try playing with text sizes, shadows, animations, or just
+ * break the page. Have fun! 
+ *
+ * Thanks and Happy Coding! 
+ */
+
+

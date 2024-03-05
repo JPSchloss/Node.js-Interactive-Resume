@@ -1,0 +1,118 @@
+/**
+ *
+ * Hello and Welcome! 
+ * 
+ * My name is Jon! 
+ *
+ * I am a Senior Data Scientist, an NLP/LLM Engineer, and a Data Educator. 
+ *
+ * Welcome to this interactive resume site (with some coding)!
+ */
+
+/**
+ * To start, lets make the site come alive! 
+ * 
+ */
+
+* {
+  -webkit-transition: all 1s;
+}
+
+html {
+  background: rgb(255, 255, 0);
+}
+
+/**
+ * Ooop... that's extreme! How about this?
+ *
+ */
+
+html {
+  background: #FFBA08;
+}
+
+/**
+ * That's better. 
+ *
+ */
+
+/**
+ * This full-site view is odd though... 
+ *
+ * Let's make a little area to work in!
+ *
+ */
+
+ pre:not(:empty) {
+  overflow: auto;
+  background: #1C3144;
+  border: 1px solid #000000;
+  max-height: 45vh;
+  width: 49%;
+  font-size: 14px;
+  font-family: monospace;
+  padding: 1vh 0.5vw;
+  box-shadow: -4px 4px 2px 0 rgba(0,0,0,0.3);
+  white-space: pre-wrap;
+  outline: 0;
+  margin: 1vh 0.5vw;
+}
+
+/***
+ * And, let's make the text easier to read... 
+ *
+ */
+
+pre, a {
+  color: #FFFFFF;
+}
+
+
+/**
+ *  Now, let's move this over to the side!
+ *
+ */
+
+#style-text {
+  -webkit-transform: translateX(95%);
+  position: absolute;
+}
+
+/**
+ * Okay, now we are getting somewhere... 
+ *
+ * But, we can add a bit more style!
+ *
+ */
+
+.comment       { color: #D00000; font-style: italic; }
+.selector      { color: #E69F0F; }
+.selector .key { color: #64D5EA; }
+.key           { color: #92ced8; }
+.value         { color: #BE84F2; }
+.value.px      { color: #F92772; }
+
+/**
+ * Also, let's expand this box a bit more and clean the text up... 
+ */
+
+body {
+  -webkit-perspective: 1000px;
+}
+
+#style-text {
+  -webkit-transform: translateX(98.5%) rotateY(-10deg);
+  -webkit-transform-origin: right;
+  max-height: 93.1vh;
+}
+
+/**
+ * While all this is cool, youre here for my resume right? 
+ *
+ * Well let's check that out! 
+ */
+
+pre:not(#style-text) {
+  -webkit-transform: rotateY(10deg);
+  -webkit-transform-origin: left;
+}

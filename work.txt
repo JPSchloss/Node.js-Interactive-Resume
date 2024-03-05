@@ -1,0 +1,134 @@
+Jonathan Schlosser
+=========
+
+Senior Data Scientist | NLP/LLM Engineer | Data Educator & Mentor
+
+
+Experience
+-------
+
+#### Senior Data Scientist
+Nielsen  
+September 2021 – Present
+
+#### Data Science Lead Instructor & Technical Coach 
+Correlation One | DS4A: Empowerment 
+April 2021 – Present | 5 Programs
+
+#### Lead Instructor & Technical Coach 
+Correlation One | DS4A: Data Engineering
+February 2022 – July 2023 | 2 Programs
+
+#### Machine Learning Lead Instructor 
+Correlation One | DS4A: Colombia
+March 2022 – August 2022
+
+#### Data Analytics Lead Instructor & Curriculum Consultant 
+Correlation One | Amazon Data Skills Program
+June 2021 – Dec. 2021
+
+#### Data Science, Machine Learning & Statistics Consultant 
+UNC Odum Institute For Research In Social Science
+August 2020 – October 2021
+
+#### Data Science, Machine Learning, & Deep Learning Teaching Assistant 
+National Consortium Of Data Science 
+August 2019, December 2020, August 2021 | 3 Programs
+
+#### Agrivoltaics Computational Modeling Research Assistant 
+Lancaster Environment Centre
+January 2015 – September 2015
+
+#### Hazelrigg Meteorological Station Research Assistant 
+Lancaster University
+October 2014 – September 2015
+
+#### GIS Analyst & Research Assistant 
+Binghamton University
+January 2014 – June 2014
+
+#### Environmental Data Analyst & Research Assistant 
+Binghamton University
+September 2013 – June 2014
+
+#### GIS and GHG Emissions Data Analyst Intern 
+Sullivan County Planning and Zoning Board
+May 2013 – July 2013
+
+
+Mentorship Experience
+-------
+
+#### LLM Instructor 
+Analytics Vidhya: Data Hour 
+Jan. 2024
+
+#### ML, NLP, and LLM Mentor 
+KaggleX BIPOC Mentorship Program 
+Aug. 2023 - Oct. 2023
+
+#### Machine Learning and Data Science Mentor 
+Measure of Music 
+Feb. 2023, Feb. 2024
+
+#### Speaker and Presenter 
+Google Computer Science Research Mentorship Program 
+Oct. 2022, Mar. 2023
+
+#### Machine Learning and Data Science Instructor & Mentor 
+Carolina Association For Data Science 
+June 2021 - June 2022
+
+#### Ethics Adjunct Instructor 
+UNC Hussman School of Journalism and Media 
+Aug. 2019 - Oct. 2021
+
+#### Teaching Assistant 
+Microsoft TEALS (Technology Education and Literacy in Schools) 
+June 2017 - May 2018
+
+#### Environmental Engineering Adjunct Instructor 
+SUNY Sullivan 
+May 2017 - June 2018
+
+#### Director of Social Media and Digital Outreach 
+Sullivan County Visitors Association 
+April 2016 - Dec. 2016
+ 
+
+Sample Projects
+-------
+
+#### Introduction to LLM Applications: Building a PDF Summarizer
+Instructor | Analytics Vidhya | January 2024
+##### Interactive Application: https://jpschloss-open-ai-summarizer-app.streamlit.app 
+##### GitHub: https://github.com/JPSchloss/Open-AI-Summarizer-App
+![PDF Summarizer Photo](./img/PDFDocSummarizer.png)
+
+
+#### Job Application Assistant: A ChatGPT CV Advisor and Cover Letter Writer 
+Developer | Personal Project | October 2023
+##### Interactive Application: https://jpschloss-job-application-assistant.streamlit.app 
+##### GitHub: https://github.com/JPSchloss/ChatGPT_Job_Application_Assistant
+![CV Advisor Photo](./img/JobAppAssistant.png)
+
+
+#### Alt-Right Rhetoric and Conspiracy Theories: Topic Modeling History Channel’s ‘Ancient Aliens’. 
+Principal Researcher | UNC Chapel Hill | August 2020 – August 2023
+##### Interactive Application: https://jonathanschlosser.shinyapps.io/AncientAliensApp/
+##### GitHub: https://github.com/JPSchloss/Ancient-Aliens
+![Ancient Aliens Photo](./img/AncientAliens.png)
+
+
+#### What Factors Contribute to "Successful" Spotify Collabs? – An Application For Artists & Labels. 
+Project Lead & Lead Data Scientist | DS4A Fellowship | October 2020 – February 2021
+##### GitHub: https://github.com/JPSchloss/Spotify-Dash-Final
+![Spotify Project Photo](./img/SpotifyApp.png)
+
+
+#### Coronavirus and Conspiracy Theories: What are the News Media and the Public Discussing? 
+Principal Researcher | UNC Chapel Hill | January 2020 – May 2020
+##### Interactive Application: https://jonathanschlosser.shinyapps.io/COVIDConspiraciesApp/ 
+##### GitHub: https://github.com/JPSchloss/CovidConspiracies
+![Covid Conspiracies Photo](./img/CovidConspiracies.png)
+

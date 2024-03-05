@@ -1,0 +1,4 @@
+- Update shadow box
+- Update thanks at the end to primarily thank Samuel Reed, and Chris Brousseau
+- Change color of the skills text. 
+- Change Sillset headings X

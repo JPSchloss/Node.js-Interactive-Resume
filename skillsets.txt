@@ -1,0 +1,62 @@
+Skillsets
+-------
+
+#### Main Languages:         
+
+* SQL (10+ years)
+* Python (8+ years)
+* R (8+ years).
+
+#### Knowledge Domains:      
+
+* Data Science (10+ years)
+* Data Analytics (10+ years)
+* Statistics (10+ years)
+* Machine Learning (7+ years)
+* Natural Language Processing (7+ years)
+* Deep Learning (5+ years)
+* Data Engineering (4+ years)
+* Large Language Models and Generative AI (2+ years)
+
+#### Data Science and ML:    
+
+* Pandas/Numpy (8+ years)
+* Matplotlib (8+ years)
+* Scikit-Learn (7+ years)
+* NLTK (7+ years)
+* Seaborn (7+ years)
+* Plotly (5+ years)
+* TensorFlow (5+ years)
+* Keras (5+ years)
+* PyTorch (4+ years)
+* HuggingFace (2+ years)
+* LangChain (1+ year)
+* OpenAI API (1+ year)
+
+#### Programming and Dev:    
+
+* Linux (10+ years)
+* HTML/CSS (10+ years)
+* Git/GitHub/GitLab (10+ years)
+* VSCode (10+ years)
+* CLI (10+ years)
+* Tableau (9+ years)
+* JupyterLab/Notebooks (8+ years)
+* Pip (8+ years)
+* MySQL (7+ years)
+* SQLAlchemy (3+ years)
+* PostgreSQL (3+ years)
+* Flask (3+ years)
+* Streamlit (1+ year)
+
+#### Cloud and DevOps:       
+
+* HTTP (10+ years)
+* AWS (EC2, S3, RDS, Lambda, SageMaker, Redshift) (5+ years)
+* Google Cloud/Colab (3+ years)
+* Docker (3+ years)
+* Databricks (3+ years)
+* Flask (3+ years)
+* Spark/PySpark/Spark SQL (3+ years)
+* Presto/Trino (2+ years)
+* Airflow (1+ years)
